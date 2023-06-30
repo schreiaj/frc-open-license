@@ -1,6 +1,6 @@
   
 # Gracious Professionalism License (GPL)
-###### Version 1.0
+###### Version 1.0.0
 ## Preamble:
 
 The Gracious Professionalism License (GPL) is designed to encourage the spirit of sharing and collaboration among participants in the high school competitive robotics competition. This license applies to both software and hardware components, as well as CAD files, associated with the competition. By utilizing the GPL, participants commit to fostering an environment of openness, cooperation, and knowledge exchange, which benefits the entire robotics community.
